@@ -1,0 +1,79 @@
+.logo{
+	width: 100%;
+	min-height: 60px;
+	background-color: lightblue;
+}
+.header{
+	width: 100%;
+	min-height: 150px;
+	background-color: pink;
+}
+.mother-navigation{
+	overflow: hidden;
+}
+.navigation01{
+	width: 24.2%;
+	min-height: 40px;
+	background-color: blue;
+	border: 5.3px red solid;
+	float: right;
+}
+.navigation02{
+	width: 24.2%;
+	min-height: 40px;
+	background-color: blue;
+	border: 5.3px red solid;
+	float: right;
+}
+.navigation03{
+	width: 24.2%;
+	min-height: 40px;
+	background-color: blue;
+	border: 5.3px red solid;
+	float: right;
+}
+.navigation04{
+	width: 24.2%;
+	min-height: 40px;
+	background-color: blue;
+	border: 5.3px red solid;
+	float: right;
+}
+.grandmother-about-quick{
+	overflow: hidden;
+}
+.about{
+	width: 49.7%;
+	min-height: 450px;
+	background-color: lightgreen;
+	border: 2px cyan solid;
+	float: left;
+}
+.mother-quicklink{
+	width: 49.7%;
+	min-height: 450px;
+	background-color: green;
+	border: 2px cyan solid;
+	float: right;
+	overflow: hidden;
+}
+.quicklink01{
+	width: 100%;
+	min-height: 221px;
+	background-color: yellow;
+	border: 2px cyan solid;
+	float: top;
+}
+.quicklink02{
+	width: 100%;
+	min-height: 221px;
+	background-color: orange;
+	border: 2px cyan solid;
+	float: bottom;
+}
+.siteplan{
+	width: 100%;
+	min-height: 100px;
+	background-color: violet;
+	border: 1px green solid;
+}
